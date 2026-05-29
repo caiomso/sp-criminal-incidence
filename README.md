@@ -111,7 +111,7 @@ python3 -m http.server 8000
 
 ## Methodology
 
-See [`metodologia_safety_rating_sp_v5.docx`](./metodologia_safety_rating_sp_v5.docx) for the full methodology document, covering:
+See [`metodologia_safety_rating_sp_v5.docx`]for the full methodology document, covering:
 
 - Severity weight table (all 9 crime types)
 - Per-capita normalisation and logarithmic scale derivation
@@ -120,7 +120,7 @@ See [`metodologia_safety_rating_sp_v5.docx`](./metodologia_safety_rating_sp_v5.d
 - Population assignment and SEADE mapping
 - Limitations and caveats
 
-Data validation is documented in [`auditoria_criminal_incidence_rating_engine_v2.docx`](./auditoria_criminal_incidence_rating_engine_v2.docx):
+Data validation is documented in [`auditoria_criminal_incidence_rating_engine_v2.docx`]:
 
 - Count accuracy: −0.35% global deviation vs SSP-SP source (Q1 2026)
 - Ranking validity: Spearman ρ = −0.711 to −0.855 across all three years (p < 10⁻¹⁵)
